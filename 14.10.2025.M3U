@@ -1,0 +1,307 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 ,TVP
+http://mohdtv.com:8880/voby4785/86625717/33450
+#EXTINF:-1 ,TVP 1
+http://mohdtv.com:8880/voby4785/86625717/33400
+#EXTINF:-1 ,TVP 2
+http://mohdtv.com:8880/voby4785/86625717/33399
+#EXTINF:-1 ,TV Republika
+http://mohdtv.com:8880/voby4785/86625717/33407
+#EXTINF:-1 ,TVP SERIALE
+http://mohdtv.com:8880/voby4785/86625717/33391
+#EXTINF:-1 ,Ale Kino+
+http://mohdtv.com:8880/voby4785/86625717/33530
+#EXTINF:-1 ,CANAL+ 1
+http://mohdtv.com:8880/voby4785/86625717/33516
+#EXTINF:-1 ,CANAL+ Family
+http://mohdtv.com:8880/voby4785/86625717/33517
+#EXTINF:-1 ,CANAL+ Film
+http://mohdtv.com:8880/voby4785/86625717/33515
+#EXTINF:-1 ,CANAL+ Seriale
+http://mohdtv.com:8880/voby4785/86625717/33514
+#EXTINF:-1 ,CANAL+ Premium
+http://mohdtv.com:8880/voby4785/86625717/33429
+#EXTINF:-1 ,Cinemax
+http://mohdtv.com:8880/voby4785/86625717/33506
+#EXTINF:-1 ,Cinemax 2
+http://mohdtv.com:8880/voby4785/86625717/33507
+#EXTINF:-1 ,AXN
+http://mohdtv.com:8880/voby4785/86625717/33525
+#EXTINF:-1 ,AXN Black
+http://mohdtv.com:8880/voby4785/86625717/33526
+#EXTINF:-1 ,HBO
+http://mohdtv.com:8880/voby4785/86625717/33468
+#EXTINF:-1 ,HBO 2
+http://mohdtv.com:8880/voby4785/86625717/33470
+#EXTINF:-1 ,HBO 3
+http://mohdtv.com:8880/voby4785/86625717/33469
+#EXTINF:-1 ,CANAL+ SPORT
+http://mohdtv.com:8880/voby4785/86625717/33522
+#EXTINF:-1 ,CANAL+ SPORT 2
+http://mohdtv.com:8880/voby4785/86625717/33521
+#EXTINF:-1 ,CANAL+ SPORT 3
+http://mohdtv.com:8880/voby4785/86625717/33520
+#EXTINF:-1 ,CANAL+ SPORT 4
+http://mohdtv.com:8880/voby4785/86625717/33519
+#EXTINF:-1 ,CANAL+ SPORT 5
+http://mohdtv.com:8880/voby4785/86625717/33447
+#EXTINF:-1 ,Boomerang
+http://mohdtv.com:8880/voby4785/86625717/33518
+#EXTINF:-1 ,4Fun TV
+http://mohdtv.com:8880/voby4785/86625717/33529
+#EXTINF:-1 ,Animal Planet
+http://mohdtv.com:8880/voby4785/86625717/33528
+#EXTINF:-1 ,TVP Rozrywka
+http://mohdtv.com:8880/voby4785/86625717/33527
+#EXTINF:-1 ,Nickelodeon
+http://mohdtv.com:8880/voby4785/86625717/33513
+#EXTINF:-1 ,BBC Earth
+http://mohdtv.com:8880/voby4785/86625717/33512
+#EXTINF:-1 ,Cartoon Network
+http://mohdtv.com:8880/voby4785/86625717/33511
+#EXTINF:-1 ,CBS Europa
+http://mohdtv.com:8880/voby4785/86625717/33509
+#EXTINF:-1 ,CBS Reality
+http://mohdtv.com:8880/voby4785/86625717/33508
+#EXTINF:-1 ,Comedy Central
+http://mohdtv.com:8880/voby4785/86625717/33505
+#EXTINF:-1 ,Disco Polo Music
+http://mohdtv.com:8880/voby4785/86625717/33503
+#EXTINF:-1 ,Discovery Historia
+http://mohdtv.com:8880/voby4785/86625717/33501
+#EXTINF:-1 ,Discovery Life
+http://mohdtv.com:8880/voby4785/86625717/33500
+#EXTINF:-1 ,Discovery Science
+http://mohdtv.com:8880/voby4785/86625717/33499
+#EXTINF:-1 ,Discovery Turbo Xtra
+http://mohdtv.com:8880/voby4785/86625717/33498
+#EXTINF:-1 ,Disney Channel
+http://mohdtv.com:8880/voby4785/86625717/33497
+#EXTINF:-1 ,Disney XD
+http://mohdtv.com:8880/voby4785/86625717/33495
+#EXTINF:-1 ,DOMO+
+http://mohdtv.com:8880/voby4785/86625717/33494
+#EXTINF:-1 ,E!
+http://mohdtv.com:8880/voby4785/86625717/33493
+#EXTINF:-1 ,Epic Drama
+http://mohdtv.com:8880/voby4785/86625717/33492
+#EXTINF:-1 ,CANAL+ KUCHINA
+http://mohdtv.com:8880/voby4785/86625717/33491
+#EXTINF:-1 ,Eska TV
+http://mohdtv.com:8880/voby4785/86625717/33490
+#EXTINF:-1 ,Polsat Sport Premium 1
+http://mohdtv.com:8880/voby4785/86625717/33488
+#EXTINF:-1 ,Polsat Sport Premium 2
+http://mohdtv.com:8880/voby4785/86625717/33487
+#EXTINF:-1 ,Polsat Sport Premium 3
+http://mohdtv.com:8880/voby4785/86625717/33486
+#EXTINF:-1 ,Polsat Sport Premium 4
+http://mohdtv.com:8880/voby4785/86625717/33485
+#EXTINF:-1 ,Polsat Sport Premium 5
+http://mohdtv.com:8880/voby4785/86625717/33484
+#EXTINF:-1 ,Polsat Sport Premium 6
+http://mohdtv.com:8880/voby4785/86625717/33483
+#EXTINF:-1 ,Fightbox
+http://mohdtv.com:8880/voby4785/86625717/33482
+#EXTINF:-1 ,Filmbox Action
+http://mohdtv.com:8880/voby4785/86625717/33481
+#EXTINF:-1 ,Filmbox Arthouse
+http://mohdtv.com:8880/voby4785/86625717/33480
+#EXTINF:-1 ,Filmbox Extra
+http://mohdtv.com:8880/voby4785/86625717/33479
+#EXTINF:-1 ,Filmbox Family
+http://mohdtv.com:8880/voby4785/86625717/33478
+#EXTINF:-1 ,Filmbox Premium
+http://mohdtv.com:8880/voby4785/86625717/33477
+#EXTINF:-1 ,FOKUS TV
+http://mohdtv.com:8880/voby4785/86625717/33476
+#EXTINF:-1 ,Fox Comedy
+http://mohdtv.com:8880/voby4785/86625717/33475
+#EXTINF:-1 ,FOX
+http://mohdtv.com:8880/voby4785/86625717/33474
+#EXTINF:-1 ,Investigation Discovery
+http://mohdtv.com:8880/voby4785/86625717/33472
+#EXTINF:-1 ,HISTORY CHANNEL
+http://mohdtv.com:8880/voby4785/86625717/33466
+#EXTINF:-1 ,TV 6
+http://mohdtv.com:8880/voby4785/86625717/33465
+#EXTINF:-1 ,KINO TV
+http://mohdtv.com:8880/voby4785/86625717/33464
+#EXTINF:-1 ,KUCHNIA+
+http://mohdtv.com:8880/voby4785/86625717/33463
+#EXTINF:-1 ,Lifetime
+http://mohdtv.com:8880/voby4785/86625717/33462
+#EXTINF:-1 ,MiniMini
+http://mohdtv.com:8880/voby4785/86625717/33460
+#EXTINF:-1 ,Sundance TV
+http://mohdtv.com:8880/voby4785/86625717/33459
+#EXTINF:-1 ,STARS TV
+http://mohdtv.com:8880/voby4785/86625717/33458
+#EXTINF:-1 ,EUROSPORT 1
+http://mohdtv.com:8880/voby4785/86625717/33457
+#EXTINF:-1 ,EUROSPORT 2
+http://mohdtv.com:8880/voby4785/86625717/33456
+#EXTINF:-1 ,TVS
+http://mohdtv.com:8880/voby4785/86625717/33455
+#EXTINF:-1 ,NAT GEO
+http://mohdtv.com:8880/voby4785/86625717/33453
+#EXTINF:-1 ,Nat Geo People
+http://mohdtv.com:8880/voby4785/86625717/33452
+#EXTINF:-1 ,NAT GEO Wild
+http://mohdtv.com:8880/voby4785/86625717/33451
+#EXTINF:-1 ,Kujawy
+http://mohdtv.com:8880/voby4785/86625717/33449
+#EXTINF:-1 ,NOWA TV
+http://mohdtv.com:8880/voby4785/86625717/33448
+#EXTINF:-1 ,Paramount Channel
+http://mohdtv.com:8880/voby4785/86625717/33446
+#EXTINF:-1 ,MTV
+http://mohdtv.com:8880/voby4785/86625717/33445
+#EXTINF:-1 ,Polo TV
+http://mohdtv.com:8880/voby4785/86625717/33444
+#EXTINF:-1 ,POLSAT 2
+http://mohdtv.com:8880/voby4785/86625717/33443
+#EXTINF:-1 ,Polsat Film
+http://mohdtv.com:8880/voby4785/86625717/33442
+#EXTINF:-1 ,Polsat Doku
+http://mohdtv.com:8880/voby4785/86625717/33441
+#EXTINF:-1 ,Polsat
+http://mohdtv.com:8880/voby4785/86625717/33440
+#EXTINF:-1 ,Travel Channel
+http://mohdtv.com:8880/voby4785/86625717/33437
+#EXTINF:-1 ,Polsat News
+http://mohdtv.com:8880/voby4785/86625717/33436
+#EXTINF:-1 ,Polsat Play
+http://mohdtv.com:8880/voby4785/86625717/33435
+#EXTINF:-1 ,MOTOWIZJA
+http://mohdtv.com:8880/voby4785/86625717/33434
+#EXTINF:-1 ,Polsat Sport Extra
+http://mohdtv.com:8880/voby4785/86625717/33433
+#EXTINF:-1 ,Polsat Sport Fight
+http://mohdtv.com:8880/voby4785/86625717/33432
+#EXTINF:-1 ,Polsat Sport
+http://mohdtv.com:8880/voby4785/86625717/33431
+#EXTINF:-1 ,Polsat Sport News
+http://mohdtv.com:8880/voby4785/86625717/33430
+#EXTINF:-1 ,Canal+ Discovery
+http://mohdtv.com:8880/voby4785/86625717/33428
+#EXTINF:-1 ,POLSAT Viasat Explore
+http://mohdtv.com:8880/voby4785/86625717/33427
+#EXTINF:-1 ,Polsat Viasat History
+http://mohdtv.com:8880/voby4785/86625717/33426
+#EXTINF:-1 ,Polsat Viasat Nature
+http://mohdtv.com:8880/voby4785/86625717/33425
+#EXTINF:-1 ,POWER TV
+http://mohdtv.com:8880/voby4785/86625717/33424
+#EXTINF:-1 ,PULS 2
+http://mohdtv.com:8880/voby4785/86625717/33423
+#EXTINF:-1 ,Sci-Fi
+http://mohdtv.com:8880/voby4785/86625717/33422
+#EXTINF:-1 ,TVN 24 Bis
+http://mohdtv.com:8880/voby4785/86625717/33418
+#EXTINF:-1 ,Super Polsat
+http://mohdtv.com:8880/voby4785/86625717/33417
+#EXTINF:-1 ,TeleToon+
+http://mohdtv.com:8880/voby4785/86625717/33416
+#EXTINF:-1 ,TLC
+http://mohdtv.com:8880/voby4785/86625717/33415
+#EXTINF:-1 ,TTV
+http://mohdtv.com:8880/voby4785/86625717/33411
+#EXTINF:-1 ,E! Entertainment
+http://mohdtv.com:8880/voby4785/86625717/33410
+#EXTINF:-1 ,TV Puls
+http://mohdtv.com:8880/voby4785/86625717/33408
+#EXTINF:-1 ,TVN 7
+http://mohdtv.com:8880/voby4785/86625717/33406
+#EXTINF:-1 ,TVN 24
+http://mohdtv.com:8880/voby4785/86625717/33405
+#EXTINF:-1 ,TVN Fabula
+http://mohdtv.com:8880/voby4785/86625717/33404
+#EXTINF:-1 ,TVN
+http://mohdtv.com:8880/voby4785/86625717/33403
+#EXTINF:-1 ,TVN Style
+http://mohdtv.com:8880/voby4785/86625717/33402
+#EXTINF:-1 ,TVN Turbo
+http://mohdtv.com:8880/voby4785/86625717/33401
+#EXTINF:-1 ,TVP 3
+http://mohdtv.com:8880/voby4785/86625717/33398
+#EXTINF:-1 ,TVP abc
+http://mohdtv.com:8880/voby4785/86625717/33397
+#EXTINF:-1 ,TVP Historiy
+http://mohdtv.com:8880/voby4785/86625717/33396
+#EXTINF:-1 ,TVP Info
+http://mohdtv.com:8880/voby4785/86625717/33395
+#EXTINF:-1 ,TVP Kultura
+http://mohdtv.com:8880/voby4785/86625717/33394
+#EXTINF:-1 ,TVP Polonia
+http://mohdtv.com:8880/voby4785/86625717/33393
+#EXTINF:-1 ,TVP Sport
+http://mohdtv.com:8880/voby4785/86625717/33390
+#EXTINF:-1 ,BBC CBeebies
+http://mohdtv.com:8880/voby4785/86625717/33386
+#EXTINF:-1 ,BBC Lifestyle
+http://mohdtv.com:8880/voby4785/86625717/33385
+#EXTINF:-1 ,ZOOM TV
+http://mohdtv.com:8880/voby4785/86625717/33384
+#EXTINF:-1 ,4Fun Dance
+http://mohdtv.com:8880/voby4785/86625717/33382
+#EXTINF:-1 ,4Fun Gold Hits
+http://mohdtv.com:8880/voby4785/86625717/33381
+#EXTINF:-1 ,Adventure
+http://mohdtv.com:8880/voby4785/86625717/33379
+#EXTINF:-1 ,VOX MUSIC TV
+http://mohdtv.com:8880/voby4785/86625717/33378
+#EXTINF:-1 ,AMC
+http://mohdtv.com:8880/voby4785/86625717/33377
+#EXTINF:-1 ,Active Family
+http://mohdtv.com:8880/voby4785/86625717/33376
+#EXTINF:-1 ,WYDARZENIA 24
+http://mohdtv.com:8880/voby4785/86625717/33375
+#EXTINF:-1 ,Food Network
+http://mohdtv.com:8880/voby4785/86625717/33374
+#EXTINF:-1 ,Red Carpet
+http://mohdtv.com:8880/voby4785/86625717/33369
+#EXTINF:-1 ,TV Trwam
+http://mohdtv.com:8880/voby4785/86625717/33366
+#EXTINF:-1 ,Discovery Channel
+http://mohdtv.com:8880/voby4785/86625717/33365
+#EXTINF:-1 ,Disney Junior
+http://mohdtv.com:8880/voby4785/86625717/33363
+#EXTINF:-1 ,Eleven Sports 1
+http://mohdtv.com:8880/voby4785/86625717/33360
+#EXTINF:-1 ,Eleven Sports 2
+http://mohdtv.com:8880/voby4785/86625717/33359
+#EXTINF:-1 ,Eleven Sports 3
+http://mohdtv.com:8880/voby4785/86625717/33358
+#EXTINF:-1 ,Eleven Sports 4
+http://mohdtv.com:8880/voby4785/86625717/33357
+#EXTINF:-1 ,ESKA TV Extra
+http://mohdtv.com:8880/voby4785/86625717/33356
+#EXTINF:-1 ,Golf Channel
+http://mohdtv.com:8880/voby4785/86625717/33352
+#EXTINF:-1 ,Crime+ Investigation
+http://mohdtv.com:8880/voby4785/86625717/33351
+#EXTINF:-1 ,BBC FIRST
+http://mohdtv.com:8880/voby4785/86625717/33350
+#EXTINF:-1 ,Kino Polska
+http://mohdtv.com:8880/voby4785/86625717/33349
+#EXTINF:-1 ,TV 4
+http://mohdtv.com:8880/voby4785/86625717/33348
+#EXTINF:-1 ,SciFi Universal
+http://mohdtv.com:8880/voby4785/86625717/33347
+#EXTINF:-1 ,TVP 3 Wrocław
+http://mohdtv.com:8880/voby4785/86625717/33346
+#EXTINF:-1 ,Metro
+http://mohdtv.com:8880/voby4785/86625717/33345
+#EXTINF:-1 ,MTV Dance
+http://mohdtv.com:8880/voby4785/86625717/33343
+#EXTINF:-1 ,MTV Polska
+http://mohdtv.com:8880/voby4785/86625717/33342
+#EXTINF:-1 ,Planete+
+http://mohdtv.com:8880/voby4785/86625717/33338
+#EXTINF:-1 ,KuchniaPlus
+http://mohdtv.com:8880/voby4785/86625717/33336
+#EXTINF:-1 ,Polsat Romans
+http://mohdtv.com:8880/voby4785/86625717/33334
+#EXTINF:-1 ,Nick JR
+http://mohdtv.com:8880/voby4785/86625717/33328
