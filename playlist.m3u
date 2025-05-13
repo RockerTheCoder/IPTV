@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" tvg-logo="" tvg-shift="0", TVP 1
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/00eb3d6b-3ce1-4016-aa67-944190ae0103.ts
 #EXTINF:-1,TVP 2
