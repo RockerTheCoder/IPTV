@@ -1,13 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" tvg-logo="" tvg-shift="0", TVP 1
-http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/00eb3d6b-3ce1-4016-aa67-944190ae0103.ts
-#EXTINF:-1,TVP 2
-http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/896c4efd-0a92-4b7a-9152-bfba2ecd12ec.ts
-#EXTINF:-1,TVP
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/5445b6cd-c1ed-4d3b-be39-55ac3dc85ba8.ts
-#EXTINF:-1,TVP Seriale
+#EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2" tvg-logo="" tvg-shift="0", TVP 2
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/896c4efd-0a92-4b7a-9152-bfba2ecd12ec.ts
+#EXTINF:-1 tvg-id="TVP Seriale" tvg-name="TVP Seriale" tvg-logo="" tvg-shift="0", TVP Seriale
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/470aea40-e244-4d07-9d03-1305cc51c5eb.ts
-#EXTINF:-1,TVP Rozrywka
+#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-name="TVP Rozrywka" tvg-logo="" tvg-shift="0", TVP 1,TVP Rozrywka
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/6ac08ec1-579b-4033-ab8e-85cdc83b62fe.ts
 #EXTINF:-1,TVP Historia
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/1126cb0c-d437-4f64-bd74-e66b085a72ef.ts
