@@ -299,6 +299,8 @@ http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/9812b0e1-5cb1-
 http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/cc090364-ed3e-4ee5-893d-71d0de8f2215.ts
 #EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku sd" ,Polsat Doku
 http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/0f8be484-c3e7-43c2-b31e-1fdb253c91d4.ts
+#EXTINF:-1 tvg-id="Polsat Games" tvg-name="Polsat Games", Polsat Games
+http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/cf9419a5-5e73-430c-a384-315cecb17cd5.ts
 #EXTINF:-1 tvg-id="Planete+" tvg-name="Planete+ sd live" ,Planete+
 http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/8b4d27e5-23f6-45a6-b690-74537a98ab88.ts
 #EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild sd" ,National Geographic Wild
