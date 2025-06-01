@@ -287,8 +287,6 @@ http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/eb39b708-afa7-
 http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/34c3a0fc-ea07-475b-82f2-42eaad45ffcc.ts
 #EXTINF:-1 tvg-id="Polskie Radio Czwórka" tvg-name="Polskie Radio Program 3" ,Polskie Radio Program 3
 http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/1caa8f9d-3fb0-4aa4-9ef5-aac4ce5065be.ts
-#EXTINF:-1 tvg-id="Polskie Radio Czwórka" tvg-name="Polskie Radio Program 4" ,Polskie Radio Program 4
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/fb489f57-dba2-4152-b93b-09ba520d9bd3.ts
 #EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka sd live" ,Stopklatka
 http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/79640abe-7409-46d6-a189-f1cbfb791ec6.ts
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet sd live" ,Animal Planet
