@@ -1,325 +1,433 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1 sd live" ,TVP 1
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/00eb3d6b-3ce1-4016-aa67-944190ae0103.ts
-#EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2 sd live" ,TVP 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/896c4efd-0a92-4b7a-9152-bfba2ecd12ec.ts
-#EXTINF:-1 tvg-id="TVP 3" tvg-name="TVP 3" ,TVP 3
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/2fe9bbd2-4b22-4324-8180-dd6aee204b2f.ts
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP sd" ,TVP
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/5445b6cd-c1ed-4d3b-be39-55ac3dc85ba8.ts
-#EXTINF:-1 tvg-id="TVP Seriale" tvg-name="TVP seriale sd live" ,TVP Seriale
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/470aea40-e244-4d07-9d03-1305cc51c5eb.ts
-#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-name="TVP Rozrywka SD live" ,TVP Rozrywka
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/d4cd00a3-60f5-40dc-bfcf-0c5e228d4dc5.ts
-#EXTINF:-1 tvg-id="TVP Kultura" tvg-name="TVP Kultura" ,TVP Kultura
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/77234e51-d22e-4941-9644-e4537a9f0691.ts
-#EXTINF:-1 tvg-id="TVP Historia" tvg-name="TVP historia sd live" ,TVP Historia
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/d19b3e42-40ab-4a06-bfa1-d659d0d0c926.ts
-#EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia SD live" ,TVP Polonia
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/3ab29e79-8cf7-4f7b-9f7d-56ac82451e77.ts
-#EXTINF:-1 tvg-id="Antena" tvg-name="ANTENA" ,ANTENA
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/648835f7-46e6-4b32-bfae-2536848f708d.ts
-#EXTINF:-1 tvg-id="TVC" tvg-name="TVC" ,TVC
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/23d51aa6-9daa-45d5-857f-a73f741f0655.ts
-#EXTINF:-1 tvg-id="TVC Super" tvg-name="TVC Super" ,TVC Super
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/86cd98f0-de2d-4cf7-818e-eac2d06134bb.ts
-#EXTINF:-1 tvg-id="HOME TV" tvg-name="Home TV" ,Home TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/cd50060a-0ab8-42c4-a245-473fab0e27a1.ts
-#EXTINF:-1 tvg-id="Novelas+" tvg-name="NOVELAS+" ,NOVELAS+
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/cd69f9da-9fa1-4025-ae94-f2a396c7e652.ts
-#EXTINF:-1 tvg-id="TV TRWAM" tvg-name="TV Trwam" ,TV Trwam
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/a221dbe9-fe9c-448b-ac03-c888235c32f9.ts
-#EXTINF:-1 tvg-id="Polonia 1" tvg-name="Polonia 1" ,Polonia 1
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/dd450278-80f8-41a6-9aa8-b88785dd4332.ts
-#EXTINF:-1 tvg-id="Active Family" tvg-name="Active Family" ,Active Family
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/f13879f3-bcd4-4321-9d62-313670edbd64.ts
-#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal + Kuchnia sd" ,Canal+ Kuchnia
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/3e3af045-9d23-4d55-b895-3f4e5d5127ff.ts
-#EXTINF:-1 tvg-id="Polsat" tvg-name="Polsat sd" ,Polsat
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/3623e2ea-d0eb-450e-bdbd-8ba4806553a1.ts
-#EXTINF:-1 tvg-id="Polsat 2" tvg-name="Polsat 2 sd live" ,Polsat 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/185dd46e-4702-42ac-84f3-a4ddcfdd9704.ts
-#EXTINF:-1 tvg-id="Polsat" tvg-name="Polsat Cafe sd" ,Polsat Cafe
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/873595c1-87e1-4acb-a856-021ef40de90d.ts
-#EXTINF:-1 tvg-id="Polsat Film" tvg-name="Polsat Film sd live" ,Polsat Film
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/d23ca912-3c76-4384-8609-b3efb74d6860.ts
-#EXTINF:-1 tvg-id="Polsat Seriale" tvg-name="Polsat seriale sd live" ,Polsat Seriale
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/4b49481c-3ec7-4a54-91e1-4406aec5074e.ts
-#EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-name="Polsat Comedy Central Extra sd live" ,Polsat Comedy Central Extra
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/dcd9bfb6-3cf1-4ed3-8071-8bb7c5584dd9.ts
-#EXTINF:-1 tvg-id="Polsat Rodzina" tvg-name="Polsat rodzina sd live" ,Polsat Rodzina
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/426e3874-1088-452b-86b9-d5ffd907645c.ts
-#EXTINF:-1 tvg-id="Polsat Play" tvg-name="Polsat Play sd" ,Polsat Play
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/6fbc38af-7ef3-4997-a9cd-d95f3adffa10.ts
-#EXTINF:-1 tvg-id="Super Polsat" tvg-name="Super Polsat SD live" ,Super Polsat
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/1e84efe5-b400-470a-847d-2ff4e511fdf6.ts
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN sd" ,TVN
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/5454a32f-40e3-46bc-bc60-aa4bc45451d9.ts
-#EXTINF:-1 tvg-id="TVN 7" tvg-name="TVN 7 sd live" ,TVN 7
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/1cffac83-277a-40ca-9811-b1748e2015ec.ts
-#EXTINF:-1 tvg-id="TVN Style" tvg-name="TVN STYLE sd live" ,TVN STYLE
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/83688302-a1f4-4482-a09f-8a6379378980.ts
-#EXTINF:-1 tvg-id="TVN Turbo" tvg-name="TVN Turbo sd" ,TVN Turbo
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/9a1f34b4-3ad7-4bf4-a7ae-4f381b052550.ts
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN Fabula sd" ,TVN Fabula
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/30217bae-8621-4400-bc6d-00975cbeed37.ts
-#EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="Canal + Domo  sd live" ,Canal+ Domo
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/eb369a8e-408e-4c8e-b89d-dd42485dafdb.ts
-#EXTINF:-1 tvg-id="BBC First" tvg-name="BBC FIRST" ,BBC FIRST
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/195b8ff4-9dbc-4d34-a921-927337d99d0d.ts
-#EXTINF:-1 tvg-id="BBC Brit" tvg-name="BBC Brit" ,BBC Brit
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/900e3f7a-d5df-461a-9b0f-b6aa7f9a17c8.ts
-#EXTINF:-1 tvg-id="Viasat True Crime" tvg-name="VIASAT TRUE CRIME" ,VIASAT TRUE CRIME
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/f0cb48f2-a26c-454c-bad6-3e8646a6a6b5.ts
-#EXTINF:-1 tvg-id="TVN Turbo" tvg-name="Turbo Xtra Poland" ,Turbo Xtra Poland
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/506e19fa-4d26-4830-8eca-9bde1afa12f6.ts
-#EXTINF:-1 tvg-id="TV 4" tvg-name="TV4 sd live" ,TV4
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/85edd39f-d0c7-42ca-b3b4-43c25b427c3a.ts
-#EXTINF:-1 tvg-id="TV Puls" tvg-name="TV Puls sd live" ,TV Puls
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/aeb45398-d540-43df-814d-b9eab064cb13.ts
-#EXTINF:-1 tvg-id="TV OKAZJE" tvg-name="TV Okazje" ,TV Okazje
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/26e34e37-6cf4-49d8-bcf3-f1a2eac28c57.ts
-#EXTINF:-1 tvg-id="TV Puls" tvg-name="TV Puls 2 sd live" ,TV Puls 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/e0286f10-a4c8-45fb-983c-f6ebec907fd8.ts
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central sd live" ,Comedy Central
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/b78c60f0-b186-485a-822c-2ee6822b006f.ts
-#EXTINF:-1 tvg-id="ZOOM TV" tvg-name="Zoom TV  sd live" ,Zoom TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/95b37a9f-4e7f-4c72-9595-5c1b27324cab.ts
-#EXTINF:-1 tvg-id="TVS" tvg-name="TVS sd live" ,TVS
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/38e7bf79-ed62-4242-968d-df18f04181de.ts
-#EXTINF:-1 tvg-id="TTV" tvg-name="TTV sd live" ,TTV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/52ad3825-5234-478e-9a73-c1ad25ec210b.ts
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" ,E! Entertainment
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/1edbd119-5fef-4b2f-b3ef-7bb9e27a49aa.ts
-#EXTINF:-1 tvg-id="WP" tvg-name="WP sd live" ,WP
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/0a234f82-e4ff-470e-864c-bfc560b00f6a.ts
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC sd" ,TLC
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/6d5d7322-e688-442e-85ac-5c7bb4bdcf37.ts
-#EXTINF:-1 tvg-id="ROMANCE TV" tvg-name="Romance TV" ,Romance TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/a58cea4f-b711-4935-ab88-5848b99d76e2.ts
-#EXTINF:-1 tvg-id="METRO" tvg-name="Metro" ,Metro
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/a5c5c78c-4b0f-496b-9606-55166ccb013f.ts
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV sd live" ,HGTV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/5059236f-f77c-48d5-8ba0-0e8f67e003be.ts
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" ,AMC
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/a48a7e6f-13dd-4d33-9fa9-2ae54e8a7a6b.ts
-#EXTINF:-1 tvg-id="TV 6" tvg-name="TV6 sd live" ,TV6
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/693f29bf-70ac-432d-bed6-458b1ed144e7.ts
-#EXTINF:-1 tvg-id="Tele 5" tvg-name="TELE 5" ,TELE 5
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/6b9d57b3-eae1-4c94-9fd7-7e1a8913e620.ts
-#EXTINF:-1 tvg-id="TV 4" tvg-name="STARS.TV" ,STARS.TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/f78056d5-c76b-4ed5-9186-f02217dcfb48.ts
-#EXTINF:-1 tvg-id="Red Carpet TV" tvg-name="Red Carpet TV" ,Red Carpet TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/6109dcb5-ebdd-41a0-b7f0-0c1ab0c1ddd2.ts
-#EXTINF:-1 tvg-id="POWER TV" tvg-name="POWER TV" ,POWER TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/ca44c966-c2d9-48a4-aa6c-c22f1c95fd17.ts
-#EXTINF:-1 tvg-id="Polo TV" tvg-name="Polo tv live" ,Polo TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/6e627418-a319-4d09-a627-4b612193147d.ts
-#EXTINF:-1 tvg-id="NOWA TV" tvg-name="Nowa TV" ,Nowa TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/62d1cae5-4864-4c79-9224-96e4a1dfe9f3.ts
-#EXTINF:-1 tvg-id="13 Ulica" tvg-name="13 ulica sd live" ,13 Ulica
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/60eb4ead-3aa2-4808-babb-ff3b75b12175.ts
-#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="Canal+ Premium sd live" ,Canal+ Premium
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/6807ad17-0091-4879-a69d-b81c1d643fff.ts
-#EXTINF:-1 tvg-id="Canal+ Film" tvg-name="CANAL+ FILM sd" ,CANAL+ FILM
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/95de8048-40a0-403e-9fe5-430445236736.ts
-#EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="CANAL+ SERIALE sd live" ,CANAL+ SERIALE
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/6620d98a-57be-4924-931c-440e8691729c.ts
-#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="CANAL+ FAMILY sd live" ,CANAL+ FAMILY
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/98b6e680-2282-4678-8754-fd3cbd8b6299.ts
-#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="CANAL+ DOKUMENT sd live" ,CANAL+ DOKUMENT
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/1c6ff393-0bea-4f8e-9206-3c1419f4c9f3.ts
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO sd" ,HBO
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/a7a2ad4e-636e-4895-ba40-89361f2ef34e.ts
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 sd live" ,HBO 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/0cb86d26-ff70-497b-9ed2-0d343482f007.ts
-#EXTINF:-1 tvg-id="HBO 3" tvg-name="HBO 3 sd live" ,HBO 3
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/f1b94148-24ee-4948-8337-a6440a694e8e.ts
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" ,Warner TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/ba77a3d4-a3b0-4e02-8341-ff2b03dec2ac.ts
-#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="FilmBox Family sd live" ,FilmBox Family
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/8d22c96f-8ceb-4b37-b947-12d5aa8735e7.ts
-#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-name="Filmbox Arthouse sd live" ,Filmbox Arthouse
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/cf43f3dd-403c-46f8-beb0-159371704118.ts
-#EXTINF:-1 tvg-id="FilmBox Action" tvg-name="FilmBox Action sd live" ,FilmBox Action
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/34180f30-61d5-4004-b5c4-9062486c36fc.ts
-#EXTINF:-1 tvg-id="Kino TV" tvg-name="Kino TV sd live" ,Kino TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/fca697c1-bb2b-4d56-9818-2207f8be3dd9.ts
-#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="FilmBox Family" ,FilmBox Family
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/ad2f190a-ae69-4da4-ac92-b18cd98f4da6.ts
-#EXTINF:-1 tvg-id="FilmBox Action" tvg-name="FilmBox Action" ,FilmBox Action
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/34180f30-61d5-4004-b5c4-9062486c36fc.ts
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax sd" ,Cinemax
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/4fa7f186-cc7f-4bbe-9056-a02fec62a7da.ts
-#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2 sd live" ,Cinemax 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/fd25e644-c8a5-4a0e-b663-3113d242c388.ts
-#EXTINF:-1 tvg-id="CI Polsat" tvg-name="CI Polsat sd live" ,CI Polsat
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/6a9730a9-78d3-43d9-9fdc-19b021490d60.ts
-#EXTINF:-1 tvg-id="CBS REALITY" tvg-name="CBS Reality" ,CBS Reality
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/1b0277e0-1492-4dfd-858a-8dd6d511a1e6.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN sd live" ,AXN
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/2965d2f1-1c9f-441f-9deb-3c7264145eb4.ts
-#EXTINF:-1 tvg-id="AXN Spin" tvg-name="AXN Spin sd  live" ,AXN Spin
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/0e735d35-29e3-4287-84ed-2cce48e7525f.ts
-#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black sd live" ,AXN Black
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/a3546eee-0719-4a99-8be3-c689afcfdd8b.ts
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White sd live" ,AXN White
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/6b638a12-941c-4271-8da9-edd0311cf996.ts
-#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox sd live" ,Fox News
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/8ff8e0dc-9be2-4b8c-9b6f-3e05d9e749a3.ts
-#EXTINF:-1 tvg-id="FX Comedy" tvg-name="Fox Comedy sd live" ,Fox Comedy
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/8e3887ee-0ac1-453e-9a80-1da448c3a24a.ts
-#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" ,Stopklatka TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/61a66118-9243-4dde-91a7-c267c5bbfdc5.ts
-#EXTINF:-1 tvg-id="SCI FI" tvg-name="SciFi sd live" ,SciFi
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/4d0f3a45-f760-4f2c-9128-b345c194e95d.ts
-#EXTINF:-1 tvg-id="Kino Polska" tvg-name="Kino Polska sd live" ,Kino Polska
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/51e2f101-3f5f-468d-8888-14d1e9f8eeb4.ts
-#EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale kino+ SD live" ,Ale Kino+
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/9d4f45a5-f17d-4e28-b97b-c837af10f192.ts
-#EXTINF:-1 tvg-id="Canal+ 360" tvg-name="CANAL+ 360" ,CANAL+ 360
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/f9384d37-e5f2-4684-8b6e-2b5a421d5c80.ts
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ SPORT EXTRA 1" ,CANAL+ SPORT EXTRA 1
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/180c256e-3850-47d8-87c3-5ef67550c998.ts
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="CANAL+ SPORT EXTRA 1" ,CANAL+ SPORT EXTRA 1
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/180c256e-3850-47d8-87c3-5ef67550c998.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="CANAL+ SPORT EXTRA 2" ,CANAL+ SPORT EXTRA 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/cbc3f2d1-65f8-4b50-b544-e546683faae7.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="CANAL+ SPORT EXTRA 3" ,CANAL+ SPORT EXTRA 3
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/94720b90-0717-4416-b128-2166009cc027.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="CANAL+ SPORT EXTRA 4" ,CANAL+ SPORT EXTRA 4
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/74d443c6-20df-4d7c-966c-fb39197208d7.ts
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1 sd live" ,Eurosport 1
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/7d738bb5-d872-4098-a1fa-341b2bb5472f.ts
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 sd live" ,Eurosport 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/50b0d518-988d-4d70-a589-6471ed82abaf.ts
-#EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport sd" ,TVP Sport
-http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/105548
-#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="CANAL+ SPORT sd" ,CANAL+ SPORT
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/ba6d5543-70d5-4422-8215-e10605f9886c.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="CANAL+ SPORT 2 sd" ,CANAL+ SPORT 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/bf2024f9-7ee5-4257-9827-efbd6342849c.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="CANAL+ SPORT 3 SD" ,CANAL+ SPORT 3
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/8ac58dfc-707f-40c1-bbe5-86fde7920dbe.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="CANAL+ SPORT 4 SD" ,CANAL+ SPORT 4
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/bdb4d708-52e4-4304-b88c-cfb21c0b9a43.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="CANAL+ SPORT 5 sd" ,CANAL+ SPORT 5
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/1b902105-1ada-4d03-95c1-94047876df1b.ts
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 sd live" ,Eleven Sports 1
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/c35b3d59-971c-45bc-b127-3b4cc372c7c5.ts
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 sd live" ,Eleven Sports 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/791698e9-0f94-47a7-830a-f3e95e68edd8.ts
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 sd live" ,Eleven Sports 3
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/82267214-7206-4497-91c4-2b509910be41.ts
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 sd" ,Eleven Sports 4
-http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/105528
-#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="Polsat sport  FIGHT SD live" ,Polsat Sport  FIGHT
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/d554c2db-6c0b-4208-855d-7af8a7459f81.ts
-#EXTINF:-1 tvg-id="Polsat Sport 1" tvg-name="Polsat Sport 1 sd" ,Polsat Sport 1
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/d7c92b72-f9d2-4b62-a752-e341ec8f134f.ts
-#EXTINF:-1 tvg-id="Polsat Sport 2" tvg-name="Polsat Sport 2 sd" ,Polsat Sport 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/2a25867a-d439-448c-8197-54a7b96369a4.ts
-#EXTINF:-1 tvg-id="Polsat Sport 3" tvg-name="Polsat Sport 3 sd live" ,Polsat Sport 3
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/b4e4593c-7104-4a65-a849-8504ef3af6c5.ts
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" ,CNBC
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/4c63faaf-074e-49e3-83db-e435959e1ef6.ts
-#EXTINF:-1 tvg-id="Trace Urban" tvg-name="Trace Urban Live" ,Trace Urban Live
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/de096815-1af6-4043-b508-d75bc271b673.ts
-#EXTINF:-1 tvg-id="TV Biznesowa" tvg-name="TV Biznesowa  test 4" ,TV Biznesowa
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/2c1a320f-e5f6-4bf6-895a-7cf920b10b09.ts
-#EXTINF:-1 tvg-id="Polsat News Polityka" tvg-name="Polsat news polityka" ,Polsat News Polityka
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/7ace779f-274a-4a27-bbba-2b07cf86baaa.ts
-#EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP INFO sd" ,TVP INFO
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/84e0e1b5-a196-4e9e-8339-9f5aba0cd035.ts
-#EXTINF:-1 tvg-id="Polsat News" tvg-name="Polsat News sd" ,Polsat News
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/6b751205-6e06-4a5e-9f27-e7a77ab0b1e6.ts
-#EXTINF:-1 tvg-id="POLSAT NEWS 2" tvg-name="Polsat News 2" ,Polsat News 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/ed2319e6-54d6-4555-9d56-53e972eb0c47.ts
-#EXTINF:-1 tvg-id="POLSAT NEWS 2" tvg-name="Polsat news 2 sd live" ,Polsat News 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/ed2319e6-54d6-4555-9d56-53e972eb0c47.ts
-#EXTINF:-1 tvg-id="TVN 24" tvg-name="TVN 24 sd live" ,TVN 24
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/479ac020-7a0b-49a0-ab15-5be4d30e6419.ts
-#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-name="TVN 24 BiS sd live" ,TVN 24 BiS
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/9c0826c3-70f3-4e2c-97b2-5bf37958056d.ts
-#EXTINF:-1 tvg-id="Planete+" tvg-name="Planete+" ,Planete+
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/d3336a0a-9b8b-404d-8f20-d9a33a77b6a9.ts
-#EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="Wpolsce sd live" ,Wpolsce
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/a299fb8e-7705-47b2-81c5-1c67120d0a0b.ts
-#EXTINF:-1 tvg-id="TV echo 24" tvg-name="TV echo 24" ,TV Echo 24
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/fe26e96f-f41b-43cf-9d34-588c7bdb1e23.ts
-#EXTINF:-1 tvg-id="MTV 90S" tvg-name="MTV 90" ,MTV 90
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/a2c91bd2-28b5-44a9-b1c2-10b805e08596.ts
-#EXTINF:-1 tvg-id="TV 4" tvg-name="4Fun.TV" ,4Fun.TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/9e6d914b-e852-467a-a630-70f3f565235b.ts
-#EXTINF:-1 tvg-id="4FUN DANCE" tvg-name="4Fun Dance" ,4Fun Dance
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/527a468e-8e08-414c-b1f3-1f3c8e59298b.ts
-#EXTINF:-1 tvg-id="MTV Polska" tvg-name="MTV Polska sd live" ,MTV Polska
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/4b6dcf79-815f-4138-b34e-e5e49f5ac964.ts
-#EXTINF:-1 tvg-id="MTV 00S" tvg-name="MTV 00s" ,MTV 00s
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/b547e709-d5d3-4135-aa64-415a52a59474.ts
-#EXTINF:-1 tvg-id="NICKMUSIC" tvg-name="Nickmusic" ,Nickmusic
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/a3dadd4a-5057-4ec2-8a93-17670400d995.ts
-#EXTINF:-1 tvg-id="Eska TV Extra" tvg-name="Eska TV Extra" ,Eska TV Extra
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/f5b01f07-6e45-437b-93d8-78cdcb7ae382.ts
-#EXTINF:-1 tvg-id="Eska TV" tvg-name="Eska tv SD live" ,Eska TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/8fbe8579-d25d-4fd0-89f2-b93856142ccb.ts
-#EXTINF:-1 tvg-id="Vox Music TV" tvg-name="VOX MUSIC TV" ,VOX MUSIC TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/89c7491f-fb5b-4faf-9bb5-6083695fee30.ts
-#EXTINF:-1 tvg-id="Nuta TV" tvg-name="NUTA TV" ,NUTA TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/bbcb6a90-a490-42db-b95a-52ebc242e55a.ts
-#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" ,Kino Polska Muzyka
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/032ad8c9-fce8-4dcf-b9bb-e62ea1dd24da.ts
-#EXTINF:-1 tvg-id="Disco Polo Music" tvg-name="Disco Polo Music" ,Disco Polo Music
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/6fb55cd9-02ba-4f0e-999b-a5038ef0eef4.ts
-#EXTINF:-1 tvg-id="Nuta Gold" tvg-name="NUTA Gold" ,NUTA Gold
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/78950181-dae9-49de-92cc-90586cd95d53.ts
-#EXTINF:-1 tvg-id="RADIO_PL_RMF_CLASSIC" tvg-name="RMF Classic" ,RMF Classic
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/5abc4361-3e81-48cc-9394-0c894ab1fb85.ts
-#EXTINF:-1 tvg-id="RMF24" tvg-name="RMF FM" ,RMF FM
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/76f46e54-5d0c-41af-9b8c-35a2fb3aa2c0.ts
-#EXTINF:-1 tvg-id="RADIO_PL_RMF_MAXXX" tvg-name="RMF MAXX" ,RMF MAXX
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/df86f590-46f5-4613-b698-0dfe780f556b.ts
-#EXTINF:-1 tvg-id="RADIO_PL_ZLOTE_PRZEBOJE" tvg-name="Zlote przeboje" ,Zlote przeboje
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/3660ee84-f8ef-431e-8bdd-044919220c1b.ts
-#EXTINF:-1 tvg-id="Polskie Radio Czwórka" tvg-name="Polskie Radio Program 1" ,Polskie Radio Program 1
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/eb39b708-afa7-403b-9692-61208ade56db.ts
-#EXTINF:-1 tvg-id="Polskie Radio Czwórka" tvg-name="Polskie Radio Program 2" ,Polskie Radio Program 2
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/34c3a0fc-ea07-475b-82f2-42eaad45ffcc.ts
-#EXTINF:-1 tvg-id="Polskie Radio Czwórka" tvg-name="Polskie Radio Program 3" ,Polskie Radio Program 3
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/1caa8f9d-3fb0-4aa4-9ef5-aac4ce5065be.ts
-#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka sd live" ,Stopklatka
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/79640abe-7409-46d6-a189-f1cbfb791ec6.ts
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet sd live" ,Animal Planet
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/cf519064-1e8e-4f69-9ea9-a852c09fe9ce.ts
-#EXTINF:-1 tvg-id="Polsat Viasat Nature" tvg-name="Polsat Viasat Nature sd live" ,Polsat Viasat Nature
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/2892825b-c125-4f95-9a46-fd922af13391.ts
-#EXTINF:-1 tvg-id="Polsat Viasat History" tvg-name="Polsat Viasat History sd" ,Polsat Viasat History
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/9812b0e1-5cb1-4342-a2e7-53f8dba62623.ts
-#EXTINF:-1 tvg-id="POLSAT Viasat Explore" tvg-name="Polsat Viasat Explore sd" ,Polsat Viasat Explore
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/cc090364-ed3e-4ee5-893d-71d0de8f2215.ts
-#EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku sd" ,Polsat Doku
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/0f8be484-c3e7-43c2-b31e-1fdb253c91d4.ts
-#EXTINF:-1 tvg-id="Polsat Games" tvg-name="Polsat Games", Polsat Games
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/cf9419a5-5e73-430c-a384-315cecb17cd5.ts
-#EXTINF:-1 tvg-id="Planete+" tvg-name="Planete+ sd live" ,Planete+
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/8b4d27e5-23f6-45a6-b690-74537a98ab88.ts
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild sd" ,National Geographic Wild
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/c487bdf0-c8e0-4bf4-ad37-ddb4d7aede91.ts
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="NATIONAL GEO sd" ,NATIONAL GEO
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/1545f7cf-5d91-4695-b71b-23d0a42bb57e.ts
-#EXTINF:-1 tvg-id="Nat Geo People" tvg-name="Nat Geo People sd" ,Nat Geo People
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/af49cd59-c108-4f91-98ef-c068c2f90994.ts
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="History sd live" ,History
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/f034897d-78b1-480d-9e8c-3bc450c811d4.ts
-#EXTINF:-1 tvg-id="Discovery Historia" tvg-name="Discovery Historia" ,Discovery Historia
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/a14e1f53-ac2e-4e69-9aa1-5a16295955d4.ts
-#EXTINF:-1 tvg-id="Fokus TV" tvg-name="Fokus tv sd live" ,Fokus TV
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/791419c7-2096-483a-84cf-d2103846c3b0.ts
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Science Poland  sd live" ,Science Poland
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/7e2ae9f9-37f5-410f-ace3-cf5b9ca39e9f.ts
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science sd" ,Discovery Science
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/77eab74a-7984-4f71-9d32-c80ff2e95ac5.ts
-#EXTINF:-1 tvg-id="Discovery Life" tvg-name="Discovery Life sd" ,Discovery Life
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/ac8ef187-c704-4d0d-9fb3-7590e3045343.ts
-#EXTINF:-1 tvg-id="Discovery Life" tvg-name="Discovery sd live" ,Discovery
-http://nowatv.stream2.link:8080/live/64:1c:b0:a1:48:c1/tfAjswfz6H/b48ee777-90e6-488f-8f4a-023b31e7dc40.ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" ,ANIMAL PLANET ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4749&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/UK/BBCNEWS.png" ,BBC  BRIT
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14813&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/BBCBRIT.png" ,BBC BRIT
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14806&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC EARTH ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14809&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC EARTH ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14752&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANALHD.png" ,CANA + DOKUMENT ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4747&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANALFAMILY.png" ,CANAL + 360 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4746&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-PLUS-360.png" ,CANAL+ 360 HD
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1161583&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANALHD.png" ,CANAL+ 360 ᵁᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=264899&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/CBSREALITY.png" ,CBS REALITY
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14840&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/DAVINCI.png" ,DA VINCI
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14815&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/AMERICA/CARIBBIEAN/DISCOVERY-CHANNEL.png" ,DISCOVERY CHANNEL
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14759&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/UK/DISCOVERYHD.png" ,DISCOVERY HISTORIA
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14763&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/CANADA/Discovery-Science.png" ,DISCOVERY SCIENCE ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14758&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/UK/DISCOVERYHD.png" ,DISCOVERY ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14760&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/AMERICA/CARIBBIEAN/DISCOVERY-CHANNEL.png" ,DISCOVERY ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4740&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/DTX.png" ,DTX
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14812&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/FOKUSTV.png" ,FOKUS TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14810&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/H2HD.png" ,HISTORY 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14751&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/MOTOWIZJATVHD.png" ,MOTOWIZJA TV ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14808&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/DOCUMENTARY/New_NatGeo_People_logo.svg.png" ,NAT GEO PEOPLE ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14757&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" ,NAT GEO WILD
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14765&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/NATIONALGEO.png" ,NATIONAL GEO
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14764&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png" ,NATIONAL GEOGRAPHIC ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4728&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/PLANETEHD.png" ,PLANETE ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14756&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATDOKU.png" ,POLSAT DOKUMEMT ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14750&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9822.jpg?37684" ,TVN TURBO
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1109581&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVPHISTORIA.png" ,TVP HISTORIA
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14753&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVPHISTORIA.png" ,TVP HISTORIA ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4707&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVPHISTORIA.png" ,TVP HISTORY ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4733&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATVIASATEXPLOREHD.png" ,VIASAT EXPLORE
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=230828&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATVIASATHISTORY.png" ,VIASAT HISTORY
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=230827&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATVIASATNATURE.png" ,VIASAT NATURE
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=230826&extension=ts
+#EXTINF:-1 group-title="DOKUMENT-PRZYRODNICZE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATVIASATNATURE.png" ,VIASAT NATURE
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14876&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/USA/BBCAmerica.png" ,BBC CBEEBIES
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14733&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" ,BOOMERANG ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14797&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/0tv_logo/5073.png" ,DISNEY CHANNEL
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4739&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/0tv_logo/5073.png" ,DISNEY CHANNEL ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14788&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/0tv_logo/5074.png" ,DISNEY JR
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14795&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/USA/DISNEYXD.png" ,DISNEY XD
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14790&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/POLONIA/MINIMINIHD.png" ,MINI MINI  ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4730&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" ,NICK JR
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14794&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" ,NICK JR
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4753&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png" ,NICKELODEON
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14793&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png" ,NICKELODEON ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4727&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATJIMJAM.png" ,POLSAT JIM JAM
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14798&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/POLONIA/TELETOON.png" ,TELETOON  ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14791&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/0tv_logo/5071.png" ,TELETOON+ ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14769&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/POLONIA/TVPABC.png" ,TVP ABC
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14839&extension=ts
+#EXTINF:-1 group-title="DZIECI" tvg-logo="http://138.199.27.237:8080/POLONIA/TVPABC.png" ,TVP ABC
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14801&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/13ULICAHD.png" ,13 ULICA ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14845&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/ALEKINO.png" ,ALE KINO TV ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14857&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/ALEKINO.png" ,ALE KINO ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14787&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/USA/AMCHD.png" ,AMC
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14825&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/PORTUGAL/AXNHD.png" ,AXN
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14850&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/AXNBLACK.png" ,AXN BLACK
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14848&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/AXNSPIN.png" ,AXN SPIN ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14847&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/PORTUGAL/AXNWHITE.png" ,AXN WHITE
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14849&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/PORTUGAL/AXNHD.png" ,AXN ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14851&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/UK/BBC1.png" ,BBC FIRST ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14832&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANALHD.png" ,CANAL + 1  ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4744&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANALSERIALE.png" ,CANAL + SERIALE ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4743&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANALFILM.png" ,CANAL+  FILM ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4745&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANALHD.png" ,CANAL+ 1 ᵁᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=265976&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANALHD.png" ,CANAL+ FILM ᵁᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=264898&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANALHD.png" ,CANAL+ PREMIUM ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=80471&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANALSERIALE.png" ,CANAL+ SERIALE ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=80472&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/CINEMAX2.png" ,CINEMAX 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14861&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/1%20MISSING%20LOGO/COMEDY-CENTRAL.png" ,COMEDY CENTRAL ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14837&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://103.161.34.238/dreamtv/tv/Epic_Drama.png" ,Epic Drama
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=230829&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/EPICDRAMAHD.png" ,EPIC DRAMA ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14844&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/FILMBOXACTION.png" ,FILMBOX ACTION
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14864&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/FILMBOXARTHOUSE.png" ,FILMBOX ARTHOUSE
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14862&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/FILMBOXFAMILY.png" ,FILMBOX FAMILY
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14863&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/FILMBOXPREMIUM.png" ,FILMBOX PREMIUM ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14865&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/FOX.png" ,FOX COMEDY ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14852&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/FOX.png" ,FOX ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14853&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/USA/HBO.png" ,HBO 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4736&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/USA/HBO.png" ,HBO 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14860&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/USA/HBO.png" ,HBO 3 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4735&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/USA/HBO.png" ,HBO 3 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14859&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/USA/HBO.png" ,HBO ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4734&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/KINO.png" ,KINO POLSKA ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4732&extension=ts
+#EXTINF:-1 group-title="FILMOWE" ,NOVELAS + 1
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=591323&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://103.176.90.118/picons/logos/NOVELAS+.png" ,NOVELAS+ HD
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1248290&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/PARAMOUNTCHANNEL.png" ,PARAMOUNT CHANNEL ᴴᴰ.
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14826&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATFILM.png" ,POLSAT FILM ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4723&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/ROMANCETV.png" ,ROMANCE TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14803&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/SCIFIHD.png" ,SCIFI ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14846&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/STOPKLATKATV.png" ,STOPKLATKA TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14856&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/SUNDANCEHD.png" ,SUNDANCE ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14833&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVNFABULA.png" ,TVN FABULA
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14821&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVNFABULA.png" ,TVN FABULA ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4714&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVNFABULA.png" ,TVN FABULA ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4711&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVP1.png" ,TVP
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4710&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/POLAND/TVPHD.png" ,TVP HD
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1122783&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVPSERIALE.png" ,TVP SERIALE
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14842&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVPSERIALE.png" ,TVP SERIALE ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4706&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/TNT.png" ,WARNER ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14858&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATNEWS.png" ,POLSAT NEWS 2
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14734&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATNEWS2.png" ,POLSAT NEWS 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4721&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVREPUBLIKA.png" ,TV REPUBLIKA
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14732&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVN24.png" ,TVN 24 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4716&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVN24BISHD.png" ,TVN24 BIS ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14735&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="https://lo1.in/pol/tpin.png" ,TVP Info
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1109582&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10704.jpg?7900" ,wPolsce.pl
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1121704&extension=ts
+#EXTINF:-1 group-title="LIFESTYLOWE" tvg-logo="https://images.now-tv.com/shares/vod_images/vi_vodlibrary_desc_t/201709/en_us/icon_hi_res/l00576" ,BBC LIFESTYLE ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14792&extension=ts
+#EXTINF:-1 group-title="LIFESTYLOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANALHD.png" ,CANAL+ DOMO POLSKA ᵁᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=264900&extension=ts
+#EXTINF:-1 group-title="LIFESTYLOWE" ,CANAL+ KUCHNIA ᵁᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=264896&extension=ts
+#EXTINF:-1 group-title="LIFESTYLOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/DOMOHD.png" ,DOMO  ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4738&extension=ts
+#EXTINF:-1 group-title="LIFESTYLOWE" tvg-logo="http://138.199.27.237:8080/USA/E!.png" ,E ENTERTAINMENT
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14843&extension=ts
+#EXTINF:-1 group-title="LIFESTYLOWE" tvg-logo="http://138.199.27.237:8080/USA/FOODNETWORK.png" ,FOOD NETWORK ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14814&extension=ts
+#EXTINF:-1 group-title="LIFESTYLOWE" tvg-logo="http://138.199.27.237:8080/0tv_logo/3501.png" ,HGTV ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14830&extension=ts
+#EXTINF:-1 group-title="LIFESTYLOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/KUCHNIAHD.png" ,KUCHNIA  ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4731&extension=ts
+#EXTINF:-1 group-title="LIFESTYLOWE" ,TLC ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=591322&extension=ts
+#EXTINF:-1 group-title="LIFESTYLOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVNSTYLE.png" ,TVN STYLE ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4712&extension=ts
+#EXTINF:-1 group-title="LIFESTYLOWE" ,TVP Kobieta
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1122781&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/POLONIA/4FUN.TV.png" ,4 FUN KIDS TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4750&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/POLONIA/4FUNDANCE.png" ,4FUN DANCE
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14771&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/POLONIA/4FUN.TV.png" ,4FUN KIDS TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14773&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/UK/DISCOVERYHD.png" ,DISCO POLO MUSIC
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14777&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/POLONIA/ESKATVEXTRA.png" ,ESKA TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14776&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/POLONIA/KINO.png" ,KINO POLSKA MUZYKA
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14780&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/UK/MTV.png" ,MTV MUSIC
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14784&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/POLONIA/MTVPOLSKA.png" ,MTV POLSKA ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4729&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/POLONIA/MTVROCKS.png" ,MTV ROCKS
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14783&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/POLONIA/NUTATV.png" ,NUTA TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14807&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLOTV.png" ,POLO TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14778&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://138.199.27.237:8080/POLONIA/STARSTV.png" ,STARS TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14770&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/ATMROZRYWKATV.png" ,ATM ROZRYWKA TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14869&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/METRO.png" ,METRO
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14836&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Nova_Action.svg/revision/latest/scale-to-width-down/340?cb=20171222083019" ,NOVA ACTION ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14841&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/NOWATV.png" ,NOWA
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14855&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/NOWATV.png" ,NOWA TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14829&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLONIA1.png" ,POLONIA 1
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14874&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSAT2.png" ,POLSAT 2
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4725&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSAT2.png" ,POLSAT 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14873&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATCAFE.png" ,POLSAT CAFE
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14868&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATCAFE.png" ,POLSAT CAFE ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4724&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATPLAY.png" ,POLSAT PLAY ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4720&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSAT.png" ,POLSAT ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4722&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/PULS2.png" ,PULS 2
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14805&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSAT.png" ,SUPER POLSAT
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14872&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TO!TV.png" ,TO!TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14802&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TTV.png" ,TTV ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14870&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TV6.png" ,TV 6
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14875&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/JOJ_Plus.svg/revision/latest/scale-to-width-down/340?cb=20191223145807" ,TV JOJ PLUS 1 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4717&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TRWAM-PL.png" ,TV TRWAM
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1122782&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TV4HD.png" ,TV4 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14877&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVN7.png" ,TVN 7 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4715&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVN.png" ,TVN ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4713&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVP1.png" ,TVP 1 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4709&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVP2.png" ,TVP 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4708&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVP3.png" ,TVP 3
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14878&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVPKULTURA.png" ,TVP KULTURA
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14824&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9811.jpg?39440" ,TVP Polonia
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1121703&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVS.png" ,TVS POLONIA
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4704&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/WP.png" ,WP
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14800&extension=ts
+#EXTINF:-1 group-title="OGÔLNE" tvg-logo="http://138.199.27.237:8080/POLONIA/ZOOMTV.png" ,ZOOM TV
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14835&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANAL+SPORTHD.png" ,CANAL+ SPORT 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4742&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/CANAL+SPORTHD.png" ,CANAL+ SPORT ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4741&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13814.png?ver=45066" ,CANAL+ EXTRA 1 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1108264&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" ,CANAL+ SPORT 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=80473&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" ,CANAL+ SPORT 3 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=80474&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" ,CANAL+ SPORT 4 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=80475&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" ,CANAL+ SPORT 5 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=233714&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORT.png" ,ELEVEN SPORT 1 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=658439&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORT.png" ,ELEVEN SPORT 1 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=12332&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/UK/EUROSPORTS2.png" ,ELEVEN SPORT 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=658438&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/elevenpitcon.png" ,ELEVEN SPORTS 1 ULTRA ᵁᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=264891&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" ,ELEVEN SPORTS 2 ᵁᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=264894&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" ,ELEVEN SPORTS 3 ᵁᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=264895&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/UK/EUROSPORTS1.png" ,EUROSPORT 1 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14742&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/UK/EUROSPORTS2.png" ,EUROSPORT 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14741&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/UK/EUROSPORTS2.png" ,ELEVEN SPORT 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4754&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/ESPORTSTV.png" ,EXTREME SPORTS ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=658437&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/ESPORTSTV.png" ,EXTREME SPORTS ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4737&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" ,Fox Sports Southwest Pl ᴴᴰ US
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=197346&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/GOLFCHANNEL.png" ,GOLF CHANNEL
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=658440&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/GOLFCHANNEL.png" ,GOLF CHANNEL
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14739&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATSPORT.png" ,POLSAT SPORT 1 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=658441&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATSPORT.png" ,POLSAT SPORT 1 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14838&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATSPORT.png" ,POLSAT SPORT 1 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14740&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" ,POLSAT SPORT 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=658443&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" ,POLSAT SPORT 3 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=233716&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" ,POLSAT SPORT 1 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=233715&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" ,POLSAT SPORT FIGHT ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=233717&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATSPORT.png" ,POLSAT SPORT PREMIUM 1 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=54164&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATSPORT.png" ,POLSAT SPORT PREMIUM 2 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=54165&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATSPORT.png" ,POLSAT SPORT PREMIUM 3 ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=54166&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATSPORT.png" ,POLSAT SPORT PREMIUM 4 ᴴᴰ PPV6
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=54167&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATSPORT.png" ,POLSAT SPORT PREMIUM 5 ᴴᴰ PPV6
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=54168&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/POLSATSPORT.png" ,POLSAT SPORT PREMIUM 6 ᴴᴰ PPV6
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=54169&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/SPORTKLUBHD.png" ,SPORT KLUB ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=658442&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/SPORTKLUBHD.png" ,SPORT KLUB ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=14743&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://138.199.27.237:8080/POLONIA/TVPSPORT.png" ,TVP SPORT ᴴᴰ
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=4705&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 1
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086791&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 10
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086800&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 11
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086801&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 12
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086802&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 13
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086803&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 14
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086804&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 15
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086805&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 16
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086806&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 17
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086807&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 18
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086808&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 19
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086809&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 2
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086792&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 20
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086810&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 3
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086793&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 4
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086794&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 5
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086795&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 6
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086796&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 7
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086797&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 8
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086798&extension=ts
+#EXTINF:-1 group-title="SPORTOWE HBO MAX" tvg-logo="https://lo1.in/us/olyc.png" ,HBOMAX PL | Event 9
+http://app-plus.live:80/play/live.php?mac=00:1A:79:4A:0B:82&stream=1086799&extension=ts
