@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTM3U url-tvg="https://epg.ovh/pl.xml"
 #EXTM3U
 #EXTINF:-1 ,TVP 1 HD
 http://bocian.io:8880/christina69/NzkyNjg0NjY4/105345
@@ -994,3 +994,4 @@ http://bocian.io:8880/christina69/NzkyNjg0NjY4/151678
 http://bocian.io:8880/christina69/NzkyNjg0NjY4/151679
 #EXTINF:-1 ,Nasa TV UHD
 http://bocian.io:8880/christina69/NzkyNjg0NjY4/155033
+
